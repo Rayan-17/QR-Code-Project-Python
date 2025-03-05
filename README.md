@@ -59,3 +59,37 @@ This QR Code Generator is a simple tool that helps you create QR codes for text 
 </body>
 </html>
 
+
+<h2>📸 Screenshots:</h2>
+
+<h3>👀 Initial View:</h3>
+<div style="text-align:center;">
+    <img src="https://github.com/user-attachments/assets/25c051d3-e8c5-40ed-a000-2545c316ccc3" 
+         alt="QR Code Generator App Initial View with fields for title and link" style="width: 400px; height: auto;">
+</div>
+
+<h3>⚡ Example Of QR Code Generation (Using Link):</h3>
+<div style="text-align:center;">
+    <img src="https://github.com/user-attachments/assets/6938454a-ad2a-4bcc-9306-acb94fe8211f" 
+         alt="QR Code generated from a link displayed in the app" style="width: 400px; height: auto;">
+</div>
+<br>
+
+<div style="text-align:center;">
+    <img src="https://github.com/user-attachments/assets/88b7863f-6ef4-4b36-a23a-6f073d37a2e2" 
+         alt="Example of a generated QR code displayed in the app" style="width: 400px; height: auto;">
+</div>
+<br>
+
+<h3>⚡ Example Of QR Code Generation (Using Text):</h3>
+<div style="text-align:center;">
+    <img src="https://github.com/user-attachments/assets/6022060e-c6d6-49b5-9210-086577ff0b91"
+         alt="QR Code generated from text displayed in the app" style="width: 400px; height: auto;">
+</div>
+<br>
+
+<div style="text-align:center;">
+    <img src="https://github.com/user-attachments/assets/67acbf65-fcef-4f9d-9485-54dc6c5767ab"
+         alt="Example of a generated QR code displayed in the app" style="width: 400px; height: auto;">
+</div>
+<br>
