@@ -55,7 +55,7 @@
         <li><strong>Install required dependencies:</strong></li>
         <pre><code>pip install qrcode[pil] pillow</code></pre>
         <li><strong>Run the script:</strong></li>
-        <pre><code>python QR.py</code></pre>
+        <pre><code>QR.py</code></pre>
         <li><strong>Enter text or a URL</strong>, select a theme, and generate your QR code.</li>
     </ol>
     
